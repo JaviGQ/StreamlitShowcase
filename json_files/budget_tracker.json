@@ -1,0 +1,39 @@
+{
+    "income": [
+        0.0,
+        20000.0,
+        500.0,
+        500.0,
+        10000.0
+    ],
+    "expenses": [
+        {
+            "category": "Groceries",
+            "amount": 500
+        },
+        {
+            "category": "Entertainment",
+            "amount": 100
+        },
+        {
+            "category": "Rent",
+            "amount": 5000
+        },
+        {
+            "category": "School",
+            "amount": 2000
+        },
+        {
+            "category": "Health",
+            "amount": 2000.0
+        },
+        {
+            "category": "Utilities",
+            "amount": 1500.0
+        },
+        {
+            "category": "Entertainment",
+            "amount": 15000.0
+        }
+    ]
+}
